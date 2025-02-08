@@ -60,7 +60,7 @@
       }
     },
     {
-      "id": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
+      "id": "e2841302-99b5-41f3-bfb5-62b6cd03ee83",
       "type": "group",
       "position": {
         "x": 0,
@@ -72,12 +72,9 @@
       "data": {
         "label": "GROUP 2",
         "children": [
-          "e3d207c3-2f2f-4d66-8dd5-7979d8039bff",
-          "f999e1e6-6877-469c-829a-03c093f6fdb9",
-          "a57ce569-7c22-4c5c-ab4a-3ac404fd8de7",
-          "2e58c3b1-61ff-4084-92e3-62ead934e783",
-          "1485a78b-3a85-404a-81cf-06c3fa18796b",
-          "70b21386-39e2-4910-9975-3689c6de2547"
+          "06ffd7fd-d945-4ab0-99d4-8b0e7424837e",
+          "11576e59-37d7-4d78-a5af-f6664db83b3c",
+          "aa90a51f-40ec-4aa1-bcaf-c4e039229a5d"
         ],
         "tierName": "TIER 2"
       },
@@ -90,26 +87,26 @@
       }
     },
     {
-      "id": "e3d207c3-2f2f-4d66-8dd5-7979d8039bff",
+      "id": "06ffd7fd-d945-4ab0-99d4-8b0e7424837e",
       "type": "custom",
       "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
+      "parentId": "e2841302-99b5-41f3-bfb5-62b6cd03ee83",
       "position": {
         "x": 120,
         "y": 20
       },
       "data": {
-        "label": "development",
+        "label": "CTO",
         "tierName": "TIER 2",
         "isDefault": false,
-        "employees": 0,
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
+        "employees": 20,
+        "tierId": "1e6deb4f-479d-4768-8729-26a40474922a"
       }
     },
     {
-      "id": "cb6bd07e-2ae7-4a80-a0c3-b3a7b7fa348a",
+      "id": "d5ae05a7-3213-49cc-9d29-1cb5453a8ec6",
       "type": "tier",
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
+      "parentId": "e2841302-99b5-41f3-bfb5-62b6cd03ee83",
       "draggable": false,
       "connectable": false,
       "selectable": true,
@@ -119,79 +116,28 @@
       },
       "data": {
         "tierName": "TIER 2",
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
+        "tierId": "1e6deb4f-479d-4768-8729-26a40474922a"
       }
     },
     {
-      "id": "f999e1e6-6877-469c-829a-03c093f6fdb9",
+      "id": "11576e59-37d7-4d78-a5af-f6664db83b3c",
       "type": "custom",
       "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
+      "parentId": "e2841302-99b5-41f3-bfb5-62b6cd03ee83",
       "position": {
         "x": 360,
         "y": 20
       },
       "data": {
-        "label": "development",
+        "label": "CIO",
         "tierName": "TIER 2",
         "isDefault": false,
-        "employees": 0,
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
+        "employees": 40,
+        "tierId": "1e6deb4f-479d-4768-8729-26a40474922a"
       }
     },
     {
-      "id": "a57ce569-7c22-4c5c-ab4a-3ac404fd8de7",
-      "type": "custom",
-      "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
-      "position": {
-        "x": 600,
-        "y": 20
-      },
-      "data": {
-        "label": "development",
-        "tierName": "TIER 2",
-        "isDefault": false,
-        "employees": 0,
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
-      }
-    },
-    {
-      "id": "2e58c3b1-61ff-4084-92e3-62ead934e783",
-      "type": "custom",
-      "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
-      "position": {
-        "x": 840,
-        "y": 20
-      },
-      "data": {
-        "label": "development",
-        "tierName": "TIER 2",
-        "isDefault": false,
-        "employees": 0,
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
-      }
-    },
-    {
-      "id": "1485a78b-3a85-404a-81cf-06c3fa18796b",
-      "type": "custom",
-      "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
-      "position": {
-        "x": 1080,
-        "y": 20
-      },
-      "data": {
-        "label": "development",
-        "tierName": "TIER 2",
-        "isDefault": false,
-        "employees": 0,
-        "tierId": "07a6111f-e5b0-4c12-a4e1-948c086410cf"
-      }
-    },
-    {
-      "id": "27499021-2ef6-4a66-b782-897f04ab6d5e",
+      "id": "a0574a46-ca25-48b7-a695-26b040a89370",
       "type": "group",
       "position": {
         "x": 0,
@@ -203,7 +149,8 @@
       "data": {
         "label": "GROUP 3",
         "children": [
-          "6ec4948f-bb5b-413c-86e3-c5394838ff29"
+          "16eee36e-683b-4a47-a646-35579c127fc4",
+          "9e04a69d-8a6e-47bb-a42c-1542e17daf90"
         ],
         "tierName": "TIER 3"
       },
@@ -216,26 +163,26 @@
       }
     },
     {
-      "id": "6ec4948f-bb5b-413c-86e3-c5394838ff29",
+      "id": "16eee36e-683b-4a47-a646-35579c127fc4",
       "type": "custom",
       "connectable": true,
-      "parentId": "27499021-2ef6-4a66-b782-897f04ab6d5e",
+      "parentId": "a0574a46-ca25-48b7-a695-26b040a89370",
       "position": {
         "x": 120,
         "y": 20
       },
       "data": {
-        "label": "development",
+        "label": "CPO",
         "tierName": "TIER 3",
         "isDefault": false,
-        "employees": 0,
-        "tierId": "daee466c-c230-46bc-9e76-646e1628239b"
+        "employees": 30,
+        "tierId": "d851af26-8a16-4b6e-a3f7-0697822fe8a1"
       }
     },
     {
-      "id": "b0932105-b1ba-4233-b31d-23c1b348c536",
+      "id": "0e6f8c5b-3d11-4b0e-b6a1-99016c84b523",
       "type": "tier",
-      "parentId": "27499021-2ef6-4a66-b782-897f04ab6d5e",
+      "parentId": "a0574a46-ca25-48b7-a695-26b040a89370",
       "draggable": false,
       "connectable": false,
       "selectable": true,
@@ -245,32 +192,107 @@
       },
       "data": {
         "tierName": "TIER 3",
-        "tierId": "daee466c-c230-46bc-9e76-646e1628239b"
+        "tierId": "d851af26-8a16-4b6e-a3f7-0697822fe8a1"
       }
     },
     {
-      "id": "70b21386-39e2-4910-9975-3689c6de2547",
+      "id": "07c6cfb7-b496-453b-b870-f7c99c2ab5e2",
+      "type": "group",
+      "position": {
+        "x": 0,
+        "y": 750
+      },
+      "draggable": false,
+      "selectable": false,
+      "connectable": false,
+      "data": {
+        "label": "GROUP 4",
+        "children": [
+          "55d62b97-5b98-405f-8d42-465e22d27fbf"
+        ],
+        "tierName": "TIER 4"
+      },
+      "style": {
+        "width": "3000px",
+        "height": "250px",
+        "backgroundColor": "#f1f1f1",
+        "border": "none",
+        "zIndex": -1
+      }
+    },
+    {
+      "id": "55d62b97-5b98-405f-8d42-465e22d27fbf",
       "type": "custom",
       "connectable": true,
-      "parentId": "0134ab9e-683c-41df-9fa9-5524b99ad86e",
+      "parentId": "07c6cfb7-b496-453b-b870-f7c99c2ab5e2",
       "position": {
-        "x": 603,
+        "x": 120,
         "y": 20
       },
       "data": {
-        "label": "development",
+        "label": "TL",
+        "tierName": "TIER 4",
+        "isDefault": false,
+        "employees": 10,
+        "tierId": "ad7e11b7-f03d-4678-84d6-f92f354568a1"
+      }
+    },
+    {
+      "id": "6cf09dd6-e3ad-45b3-a770-4dc39b71cf9d",
+      "type": "tier",
+      "parentId": "07c6cfb7-b496-453b-b870-f7c99c2ab5e2",
+      "draggable": false,
+      "connectable": false,
+      "selectable": true,
+      "position": {
+        "x": 0,
+        "y": 5
+      },
+      "data": {
+        "tierName": "TIER 4",
+        "tierId": "ad7e11b7-f03d-4678-84d6-f92f354568a1"
+      }
+    },
+    {
+      "id": "9e04a69d-8a6e-47bb-a42c-1542e17daf90",
+      "type": "custom",
+      "connectable": true,
+      "parentId": "a0574a46-ca25-48b7-a695-26b040a89370",
+      "position": {
+        "x": 360,
+        "y": 20
+      },
+      "data": {
+        "label": "CISO",
+        "tierName": "TIER 3",
+        "isDefault": false,
+        "employees": 20,
+        "tierId": "d851af26-8a16-4b6e-a3f7-0697822fe8a1"
+      }
+    },
+    {
+      "id": "aa90a51f-40ec-4aa1-bcaf-c4e039229a5d",
+      "type": "custom",
+      "connectable": true,
+      "parentId": "e2841302-99b5-41f3-bfb5-62b6cd03ee83",
+      "position": {
+        "x": 600,
+        "y": 20
+      },
+      "data": {
+        "label": "RRHH",
         "tierName": "TIER 2",
         "isDefault": false,
-        "employees": 0,
-        "tierId": "daee466c-c230-46bc-9e76-646e1628239b"
+        "employees": 10,
+        "tierId": "1e6deb4f-479d-4768-8729-26a40474922a"
       }
     }
   ],
   "edges": [
     {
-      "id": "c9429f5e-9355-4c41-a26f-753b0932a3a5",
+      "id": "d6f5bfda-6fae-4f75-b091-235ebd735820",
       "source": "node1",
-      "target": "e3d207c3-2f2f-4d66-8dd5-7979d8039bff",
+      "target": "06ffd7fd-d945-4ab0-99d4-8b0e7424837e",
       "type": "smoothstep",
       "animated": true,
       "style": {
@@ -282,9 +304,9 @@
       }
     },
     {
-      "id": "d864d25d-a164-4ec6-91fc-723e06e739d5",
+      "id": "d6c42724-19da-409c-9314-652e73ba1a41",
       "source": "node1",
-      "target": "f999e1e6-6877-469c-829a-03c093f6fdb9",
+      "target": "11576e59-37d7-4d78-a5af-f6664db83b3c",
       "type": "smoothstep",
       "animated": true,
       "style": {
@@ -296,9 +318,9 @@
       }
     },
     {
-      "id": "3b3f58af-90d8-4e59-814a-b30552cfaf1d",
-      "source": "node1",
-      "target": "a57ce569-7c22-4c5c-ab4a-3ac404fd8de7",
+      "id": "30527331-299a-4f79-8afc-76ad84f546aa",
+      "source": "11576e59-37d7-4d78-a5af-f6664db83b3c",
+      "target": "16eee36e-683b-4a47-a646-35579c127fc4",
       "type": "smoothstep",
       "animated": true,
       "style": {
@@ -310,9 +332,9 @@
       }
     },
     {
-      "id": "22f279eb-fec4-4e24-a648-44874c4dc14b",
-      "source": "node1",
-      "target": "2e58c3b1-61ff-4084-92e3-62ead934e783",
+      "id": "382f1ce2-bc6b-4a3c-9b32-72e87e5a1fd2",
+      "source": "16eee36e-683b-4a47-a646-35579c127fc4",
+      "target": "55d62b97-5b98-405f-8d42-465e22d27fbf",
       "type": "smoothstep",
       "animated": true,
       "style": {
@@ -324,9 +346,9 @@
       }
     },
     {
-      "id": "7dcca3d4-a0bc-4b2f-80e2-d391f49bce1d",
-      "source": "node1",
-      "target": "1485a78b-3a85-404a-81cf-06c3fa18796b",
+      "id": "5f23d766-94e9-46d4-85c8-e3038912b106",
+      "source": "11576e59-37d7-4d78-a5af-f6664db83b3c",
+      "target": "9e04a69d-8a6e-47bb-a42c-1542e17daf90",
       "type": "smoothstep",
       "animated": true,
       "style": {
@@ -338,23 +360,9 @@
       }
     },
     {
-      "id": "4f76edd9-5f9a-4890-b4cf-913e7fc43fc7",
-      "source": "e3d207c3-2f2f-4d66-8dd5-7979d8039bff",
-      "target": "6ec4948f-bb5b-413c-86e3-c5394838ff29",
-      "type": "smoothstep",
-      "animated": true,
-      "style": {
-        "stroke": "#475467",
-        "strokeWidth": 3,
-        "strokeDasharray": "5,5",
-        "fill": "transparent",
-        "zIndex": 1
-      }
-    },
-    {
-      "id": "e052bc2a-8d5f-428a-b1d2-8224848d5f44",
+      "id": "35b5066e-581b-4c69-b429-a0f80851fdbc",
       "source": "node1",
-      "target": "70b21386-39e2-4910-9975-3689c6de2547",
+      "target": "aa90a51f-40ec-4aa1-bcaf-c4e039229a5d",
       "type": "smoothstep",
       "animated": true,
       "style": {
