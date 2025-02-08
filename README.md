@@ -37,8 +37,13 @@ Este proyecto tiene como objetivo principal permitir la visualización y manipul
 
 ## Instrucciones para Correr el Proyecto
 
-npm i 
-npm run start 
+cd frontend => npm i 
+cd backend  => npm i
+
+
+raiz del proyecto =>  npm run start
+
+
 
 
 
